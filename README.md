@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-CreativiTICs-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CreativiTICs/)](https://github.com/CreativiTICs) 
 [![Twitter Badge](https://img.shields.io/badge/-CreativiTICs-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Calillo1R/)](https://twitter.com/Calillo1R) 
 
-<h2 align="center">I'm a Full Stack Developer with industry experience building websites and web applications. I specialize in MERN Stack and have experience working with React, Node JS, Express and Mongo. I also have experience working with Flutter, SEO and Wordpress, I help companies enter the digital world and automate their processes, increasing their customers and sales.</h2>
+<h2 align="center">I'm a Full Stack Developer with industry experience building websites and web applications. I specialize in MERN Stack and have experience working with React, Node JS, Express and Mongo. I also have experience working with React Native, Flutter, SEO and Wordpress, I help companies enter the digital world and automate their processes, increasing their customers and sales.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creativitics" alt="CreativiTICs" /> </p>
 
@@ -14,9 +14,10 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/Calillo1R" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CreativiTICs" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/carlosramirez-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/carlosramirez-dev/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lillodjco/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/lillodjco/" height="30" width="40" /></a>
+<a href="https://twitter.com/Calillo1R" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619295165~hmac=0eff7d459b1d4585177da7156f226cc5" alt="CreativiTICs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlosramirez-dev/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="https://www.linkedin.com/in/carlosramirez-dev/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lillodjco/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="https://www.instagram.com/lillodjco/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/CALILLO" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" alt="https://www.facebook.com/CALILLO" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
