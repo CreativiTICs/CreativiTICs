@@ -14,7 +14,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/Calillo1R" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619295165~hmac=0eff7d459b1d4585177da7156f226cc5" alt="CreativiTICs" height="30" width="40" /></a>
+<a href="https://twitter.com/Calillo1R" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="CreativiTICs" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/carlosramirez-dev/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="https://www.linkedin.com/in/carlosramirez-dev/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lillodjco/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="https://www.instagram.com/lillodjco/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/CALILLO" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" alt="https://www.facebook.com/CALILLO" height="30" width="40" /></a>
