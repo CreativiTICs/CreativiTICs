@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-CreativiTICs-grey?style=flat&logo=github&logoColor=white&link=https://github.com/CreativiTICs/)](https://github.com/CreativiTICs) 
 [![Twitter Badge](https://img.shields.io/badge/-CreativiTICs-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Calillo1R/)](https://twitter.com/Calillo1R) 
 
-<h2 align="center">I'm a Full Stack Developer with industry experience building websites and web applications. I specialize in Tech Stacks (Next.js, MERN, Supabase, PlanetScale, etc). I also have experience working with React Native, Flutter, SEO and Wordpress, I help companies enter the digital world and automate their processes, increasing their customers and sales.</h2>
+<h2 align="center">I'm a Full Stack Developer with industry experience building websites and web applications. I specialize in multiple Tech Stacks (Next.js, MERN, Supabase, PlanetScale, etc). I also have experience working with React Native, Flutter, SEO and Wordpress, I help companies enter the digital world and automate their processes, increasing their customers and sales.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creativitics" alt="CreativiTICs" /> </p>
 
