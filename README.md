@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creativitics" alt="CreativiTICs" /> </p>
 
-- 💬 Ask me about **AI, TypeScript, Javascript, Next.jS, SQL, Data Bases, VPS, Deployment, Node.js, React.js, Redux, Hooks, React Native, Flutter, SEO...**
+- 💬 Ask me about **AI, TypeScript, Javascript, Next.jS, SQL, Data Bases, VPS, Deployment, Node.js, React.js, Redux, Hooks, React Native, Flutter, SEO, Dev Ops...**
 
-- 📫 How to reach me **cramirezl1984@gmail.com**
+- 📫 How to reach me **carlosrdev11@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
